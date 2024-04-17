@@ -1,0 +1,2 @@
+	(*sizey) = xwAttr.height;
+}
